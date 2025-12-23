@@ -84,7 +84,7 @@ KPI‑карточки:
 Шаги запуска:
 - Клонируй/скачай репозиторий:  
 
-    git clone https://github.com/irochkairochka/retail-kpi-dashboard.git
+    git clone https://github.com/irochkairochka/retail-kpi-dashboard.git  
     cd retail-kpi-dashboard 
 
 - Открой файл reports/retail_kpi_dashboard.pbix в Power BI Desktop.
